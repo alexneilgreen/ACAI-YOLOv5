@@ -47,6 +47,12 @@ Evaluation metrics can be found in the "runs/train/exp." folder after the code h
 
 ### **Commands**
 
+Run the following command to isntall required libraries:
+
+```bash
+    pip install -r requirements.txt
+```
+
 Run the following command to get the test results from the report:
 
 ```bash
